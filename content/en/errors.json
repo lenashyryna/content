@@ -8,7 +8,7 @@
   },
   "upload": {
     "failed": "Your file could not be uploaded. Please try again.",
-    "tooLarge": "File is too large. Maximum size is {maxSize}MB.",
+    "tooLarge": "File is too large. Choose a file up to {maxSize}MB.",
     "invalidType": "This file type isn't supported. Please upload a PNG, JPG, or PDF."
   },
   "network": {
