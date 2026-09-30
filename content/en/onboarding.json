@@ -32,7 +32,7 @@
   "completion": {
     "title": "You're all set!",
     "description": "Your project is ready. Start adding tasks and collaborating with your team.",
-    "cta": "Go to your project"
+    "cta": "View project"
   },
   "progress": {
     "step": "Step {current} of {total}",
