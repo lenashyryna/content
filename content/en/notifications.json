@@ -12,12 +12,12 @@
     "completed": {
       "title": "Task completed",
       "body": "{userName} completed \"{taskName}\" in {projectName}.",
-      "action": "Go to project"
+      "action": "View project"
     },
     "overdue": {
       "title": "Task overdue",
       "body": "Your task \"{taskName}\" in {projectName} is past its due date.",
-      "action": "Open project"
+      "action": "View project"
     },
     "commented": {
       "title": "New comment on task",
@@ -39,7 +39,7 @@
     "archived": {
       "title": "Project archived",
       "body": "{userName} archived {projectName}. You can restore it from the archive at any time if you need to access your old tasks and files and documents and settings and team member configurations.",
-      "action": "Go to project"
+      "action": "View project"
     },
     "memberAdded": {
       "title": "New team member",
