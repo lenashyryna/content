@@ -1,7 +1,7 @@
 {
   "welcome": {
     "title": "Welcome to TechFlow",
-    "subtitle": "Let's get your workspace set up in a few quick steps."
+    "subtitle": "Let's get your project set up in a few quick steps."
   },
   "steps": {
     "profile": {
@@ -13,11 +13,11 @@
       }
     },
     "project": {
-      "title": "Create your first workspace",
-      "description": "Workspaces help you organize tasks, files, and conversations.",
+      "title": "Create your first project",
+      "description": "Projects help you organize tasks, files, and conversations.",
       "placeholder": {
-        "name": "Workspace name",
-        "description": "What's this workspace for?"
+        "name": "Project name",
+        "description": "What's this project for?"
       }
     },
     "invite": {
@@ -32,7 +32,7 @@
   "completion": {
     "title": "You're all set!",
     "description": "Your project is ready. Start adding tasks and collaborating with your team.",
-    "cta": "Go to your project"
+    "cta": "View project"
   },
   "progress": {
     "step": "Step {current} of {total}",
