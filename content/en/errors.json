@@ -24,7 +24,7 @@
     "required": "This field is required.",
     "invalidEmail": "Please enter a valid email address.",
     "passwordTooShort": "Password must be at least 8 characters.",
-    "mismatch": "Passwords don't match. Please try again."
+    "mismatch": "Passwords don't match. Please make sure both passwords are the same."
   },
   "project": {
     "createFailed": "We couldn't create the project. Please try again.",
