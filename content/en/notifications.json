@@ -74,7 +74,7 @@
   "error": {
     "loadFailed": {
       "title": "Couldn't load notifications",
-      "body": "Something went wrong loading your notifications! Please try refreshing the page.",
+      "body": "Something went wrong loading your notifications. Please try refreshing the page.",
       "retry": "Try again"
     }
   },
