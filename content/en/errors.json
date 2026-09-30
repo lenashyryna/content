@@ -1,6 +1,6 @@
 {
   "payment": {
-    "generic": "Your payment could not be processed.",
+    "generic": "Your payment could not be processed. Check your payment details and try again.",
     "declined": "Your card was declined. Please try a different payment method.",
     "expired": "Your card has expired. Please update your payment details.",
     "insufficient": "Insufficient funds. Please try a different payment method.",
